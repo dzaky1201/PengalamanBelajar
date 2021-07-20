@@ -1,12 +1,12 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajarku didicoding
 
-***20 juli 2021***
+**20 juli 2021**
 Belajar Android Developer
   - belajar kotlin (20%)
   - belajar oop(10%)
 
-***15 Juni 2021***
+**15 Juni 2021**
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
